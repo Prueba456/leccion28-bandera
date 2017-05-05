@@ -1,0 +1,16 @@
+*{
+font-family: 'Droid Sans', sans-serif;
+}
+
+.contenedor{
+  border: 1px solid black;
+  width: 600px;
+  height: 300px;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.cuadrado{
+  width: 100px;
+  height: 100px;
+}

@@ -14,3 +14,22 @@ font-family: 'Droid Sans', sans-serif;
   width: 100px;
   height: 100px;
 }
+
+.yellow{
+  background-color: yellow;
+}
+.blue{
+  background-color: blue;
+}
+.red{
+  background-color: red;
+}
+/*Tercera parte*/
+.posicion2{
+  float: right;
+}
+.tercero{
+  overflow: auto;
+  border: 1px solid black;
+  width: 600px;
+}

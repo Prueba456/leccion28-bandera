@@ -29,7 +29,12 @@ font-family: 'Droid Sans', sans-serif;
 .posicion{
   float: left;
 }
-.segundo{
+
+/*Tercera parte*/
+.posicion2{
+  float: right;
+}
+.tercero, .segundo{
   overflow: auto;
   border: 1px solid black;
   width: 600px;
